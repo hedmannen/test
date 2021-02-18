@@ -2,14 +2,11 @@
   "posts": [
     {
       "id": 1,
-      "title": "hejsan",
-    }
+      "title": "hejsan"
+    },
     {
       "id": 2,
       "title": "hoppsan"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
