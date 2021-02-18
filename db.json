@@ -1,4 +1,10 @@
 {
+  "kontext": {
+      "timestamp": "2021-01-01T185900.100",
+      "signatur": "<jwt>",
+      "organisation": "LST"
+    },
+  
   "anvandare": [
     {
       "uid": "720729-001",
