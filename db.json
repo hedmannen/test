@@ -1,12 +1,23 @@
 {
   "anvandare": [
     {
-      "uid": 1,
+      "uid": "720729-001",
+      "personnummer": "19720729-1234"
       "fornamn": "Kent"
+      "efternamn": "Hedberg"
+      "mobiltelefon": "070-1234567"
+      "telefon": "021-121013"
+      "epost": "kent.hedberg@doman.se"
+      "administrativ_tillhorighet": "U"
     },
     {
-      "uid": 2,
-      "fornamn": "Micke"
-    }
+      "uid": "780120-001",
+      "personnummer": "19780120-1234"
+      "fornamn": "Börje"
+      "efternamn": "Lind"
+      "mobiltelefon": "070-1234578"
+      "telefon": "021-121014"
+      "epost": "borje.lind@doman.se"
+      "administrativ_tillhorighet": "AB"    }
   ]
 }
