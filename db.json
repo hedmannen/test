@@ -1,12 +1,12 @@
 {
-  "posts": [
+  "anvandare": [
     {
-      "id": 1,
-      "title": "hejsan"
+      "uid": 1,
+      "fornamn": "Kent"
     },
     {
-      "id": 2,
-      "title": "hoppsan"
+      "uid": 2,
+      "fornamn": "Micke"
     }
-  ],
+  ]
 }
